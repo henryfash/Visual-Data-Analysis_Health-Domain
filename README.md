@@ -1,1 +1,2 @@
-# Visual-Data-Analysis_Health-Domain
+# Visual Data Analysis (Health Domain)
+Visualizing multi-dimensional data, dimensionality reduction, graph visualization, machine learning and visualization, visualization design, rendering 3D volume data (such as medical CT or MRI data), extracting surfaces from volumetric data, visualizing and identifying meaningful structures in vector fields (such as flow fields from computational fluid dynamics) and tensor fields (as they arise in engineering and modern neuroimaging).
